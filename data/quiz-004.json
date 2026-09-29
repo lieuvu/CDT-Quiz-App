@@ -1,0 +1,555 @@
+{
+  "quiz": {
+    "id": "digital-workflow-quiz-4",
+    "title": "Digital Workflow Quiz 4",
+    "description": "Practice questions for Digital Workflow Quiz 4",
+    "version": "1.0"
+  },
+  "settings": {
+    "shuffleQuestions": true,
+    "shuffleAnswers": true,
+    "showCorrectAnswerAfterSubmit": true
+  },
+  "questions": [
+    {
+      "id": "DW4-Q001",
+      "category": "Digital Smile Design",
+      "question": "Which digital tool allows for the customization of tooth shape, size, and color during smile design?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Virtual smile planner",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Digital smile catalog",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Dental laboratory scanner",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Intraoral camera",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q002",
+      "category": "Workplace Safety",
+      "question": "Which regulatory standard focuses on ensuring the safety and health of employees in the workplace?",
+      "options": [
+        {
+          "id": "A",
+          "text": "HIPAA",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "OSHA",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "510K",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "FDA",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q003",
+      "category": "Digital Crown Design",
+      "question": "What is the MOST important aspect in digital design for a single-unit coping or fully anatomical crown?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Occlusal alignment",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Margin adaptation",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Material color",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Gingival contour",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q004",
+      "category": "Resin Processing",
+      "question": "What is used to filter contaminated resin?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Charcoal filter",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Coffee filter",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Paper towel",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Nylon mesh",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q005",
+      "category": "Digital Dental Design",
+      "question": "What is the purpose of defining margin lines in digital dental design software?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To simulate jaw movements and occlusal relationships",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "To create complex shapes or modify existing ones",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "To define the boundary between prepared tooth structure and dental restoration",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "To apply textures or surface properties to digital objects",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q006",
+      "category": "Digital Dental Software",
+      "question": "What is the primary purpose of updating digital libraries in digital dental design software?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To increase the software's processing speed",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "To ensure compatibility with the latest operating systems",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "To access new materials, components, and features",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "To enhance the user interface and user experience",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q007",
+      "category": "Digital Lab Maintenance",
+      "question": "What precautions should be taken before performing electronic updates in a digital dental lab?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Skip the backup process to save time",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Notify employees after the update is complete",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Ensure data backup and system stability",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Only update during peak operating hours",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q008",
+      "category": "FDA / 510(k)",
+      "question": "What information is required to be included in a 510(k) submission?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the manufacturer's contact information.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "A detailed description of the device, comparison with similar devices already on the market, and data supporting the device's safety and effectiveness.",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "A brief summary of the device's intended use.",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "A statement that the device is covered by dental insurance.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q009",
+      "category": "Dental File Formats",
+      "question": "What file type from the intra-oral scanner are accepted by open CAD systems such as 3Shape or Exocad?",
+      "options": [
+        {
+          "id": "A",
+          "text": ".JPEG",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": ".TIFF",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": ".STL",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": ".PDF",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q010",
+      "category": "Safety Data Sheets",
+      "question": "What is the primary purpose of Safety Data Sheets (SDS) for materials used in dentistry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To determine the patient's dental insurance coverage.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "To provide information on the safe handling, storage, and disposal of dental materials.",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "To test the tensile strength of dental bibs",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "To guide the positioning of dental implants.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q011",
+      "category": "Provisional Restorations",
+      "question": "What restoration is ideal for fabricating a pre-op provisional?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eggshell Crown",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Diagnostic Wax-up",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Coping",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Lithium Disilicate Crown",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q012",
+      "category": "HIPAA",
+      "question": "How does HIPAA impact the sharing of patient information within a dental office?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows unrestricted sharing of patient information among dental staff.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It requires written consent from patients before sharing their information with third parties.",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "It prohibits sharing patient information with anyone other than the patient's insurance provider.",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "It determines the patient's dental insurance coverage.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q013",
+      "category": "Night Guard Design",
+      "question": "In digital night guard design, what function does the software's occlusal adjustment tool serve?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aligns the midline",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Adjusts the vertical dimension",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Ensures proper retention",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Corrects interferences",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q014",
+      "category": "Digital Model Design",
+      "question": "What is the advantage of digital model design in terms of storage and retrieval?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It requires physical storage space",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It allows for easy duplication of models",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "It limits access to archived files",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "It relies on paper-based record-keeping",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q015",
+      "category": "Digital Dental Design",
+      "question": "In digital dental design, what does the term \"indication\" refer to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The patient's medical history",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "The specific dental restoration being designed",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "The software interface used for designing",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "The dentist's treatment plan",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q016",
+      "category": "Digital Work Orders",
+      "question": "What field of information MUST be completed in order to create a digital work order to restore a maxillary 1st molar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tooth number",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Tooth shade",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Designing technician",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Blank size",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q017",
+      "category": "Dental Scanning",
+      "question": "How does scanning tissue contribute to the accuracy of digital dental restorations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It adds color to the digital model",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It provides information about soft tissue contours and margins",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "It helps in cleaning the scanner",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "It reduces the need for polishing restorations",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q018",
+      "category": "Zirconia Restorations",
+      "question": "Which of the following is a common post-processing step for zirconia restorations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sandblasting, polishing, or glazing the restoration to achieve the desired surface finish.",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Immersing the restoration in water for 24 hours.",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Applying a thin layer of wax to enhance surface shine.",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Leaving the restoration as-is to maintain its natural appearance.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q019",
+      "category": "Digital Dental Design",
+      "question": "What are Boolean operations commonly used for in digital dental design software?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To simulate jaw movements and occlusal relationships",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "To create complex shapes or modify existing ones",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "To define the boundary between prepared tooth structure and dental restoration",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "To apply textures or surface properties to digital objects",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW4-Q020",
+      "category": "CAD/CAM Materials",
+      "question": "Which material is commonly used for milling dental restorations in a CAD/CAM system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rubber",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Plaster",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Zirconia",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Gypsum",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

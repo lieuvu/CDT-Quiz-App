@@ -1,0 +1,555 @@
+{
+  "quiz": {
+    "id": "digital-workflow-quiz-1",
+    "title": "Digital Workflow Quiz 1",
+    "description": "Practice questions for Digital Workflow Quiz 1",
+    "version": "1.0"
+  },
+  "settings": {
+    "shuffleQuestions": true,
+    "shuffleAnswers": true,
+    "showCorrectAnswerAfterSubmit": true
+  },
+  "questions": [
+    {
+      "id": "DW1-Q001",
+      "category": "Dental Scanning",
+      "question": "How does dust and debris affect the performance of dental scanners?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It enhances scanning accuracy",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It has no impact on scanner performance",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "It can cause errors and inaccuracies in scan results",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "It improves the longevity of the scanner",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q002",
+      "category": "Bite Registration",
+      "question": "What is the primary purpose of scanning bite registration in digital dentistry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enhancing patient comfort",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Recording the patient's chewing patterns",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Capturing occlusal relationships and jaw movements",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Monitoring the patient's oral hygiene",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q003",
+      "category": "Dental Scanners",
+      "question": "What is the maximum accuracy (in micrometers) of the 3Shape E4 scanner?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50 μm",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "100 μm",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "10 μm",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "20 μm",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q004",
+      "category": "Scan Data Management",
+      "question": "What precaution should be taken when cleaning up excess data from scans to avoid loss of relevant information?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increase the resolution of the scan",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Save multiple copies of the scan",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Delete the original scan file",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Skip the cleaning process",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q005",
+      "category": "3D Printing",
+      "question": "How does calibration of 3D printers affect the quality of printed parts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has no impact on print quality",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It decreases the resolution of printed parts",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "It ensures accurate and consistent print dimensions",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "It increases the risk of printing errors",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q006",
+      "category": "3D Printing",
+      "question": "How does the final curing of printed material affect the durability of dental appliances?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has no impact on appliance strength",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It weakens the material composition",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "It strengthens and solidifies the material",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "It speeds up the degradation process",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q007",
+      "category": "Dental Anatomy",
+      "question": "What is the anatomical crown of a tooth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The contact point between adjacent teeth",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "The portion of a tooth covered by enamel above the gum line",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "A virtual representation of the mechanical articulator",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "The virtual mesh used in digital dental design software",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q008",
+      "category": "FDA / 510(k)",
+      "question": "What information is required to be included in a 510(k) submission?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the manufacturer's contact information.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "A detailed description of the device, comparison with similar devices already on the market, and data supporting the device's safety and effectiveness.",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "A brief summary of the device's intended use.",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "A statement that the device is covered by dental insurance.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q009",
+      "category": "Dental File Formats",
+      "question": "What is the primary file format used to import intra-oral scans into CAD software?",
+      "options": [
+        {
+          "id": "A",
+          "text": ".PDF",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": ".DOCX",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": ".STL",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": ".JPEG",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q010",
+      "category": "Safety Data Sheets",
+      "question": "What is the primary purpose of Safety Data Sheets (SDS) for materials used in dentistry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To determine the patient's dental insurance coverage.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "To provide information on the safe handling, storage, and disposal of dental materials.",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "To test the tensile strength of dental bibs",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "To guide the positioning of dental implants.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q011",
+      "category": "Restoration Design",
+      "question": "Which restoration type/design option DOES NOT create space for the application of porcelain/PMMA?",
+      "options": [
+        {
+          "id": "A",
+          "text": "multi-layer",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "coping",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "framework",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "reduced",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q012",
+      "category": "Digital Case Planning",
+      "question": "How does digital case planning facilitate communication between dental professionals and patients?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By limiting the information shared about the patients",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "By providing visual aids and simulations to explain treatment options",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "By excluding patients from the treatment planning process",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "By increasing the complexity of treatment plans",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q013",
+      "category": "Night Guard Design",
+      "question": "What role does the patient's bite registration play in the design of a night guard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Determines the material color",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Guides the occlusal adjustment",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Specifies the design complexity",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Dictates the thickness variation",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q014",
+      "category": "Safety Data Sheets",
+      "question": "Why is it important for dental professionals to have access to SDS for dental materials?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To evaluate the stability and retention of dental restorations.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "To guide the positioning of dental implants.",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "To ensure the safe handling and use of materials, as well as to respond appropriately to emergencies.",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "To enhance the color accuracy of digital impressions.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q015",
+      "category": "Digital Fabrication",
+      "question": "What is the correct sequence of production steps in digital dental fabrication?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scanning, designing, milling, finishing",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Designing, scanning, finishing, milling",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Milling, scanning, designing, finishing",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Finishing, scanning, milling, designing",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q016",
+      "category": "Safety Data Sheets",
+      "question": "What section of an SDS provides information on the physical and chemical properties of a dental material?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Section 1: Identification.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Section 2: Hazard(s) Identification.",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Section 9: Physical and Chemical Properties.",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Section 16: Other Information.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q017",
+      "category": "CAD/CAM Hardware",
+      "question": "What is the recommended memory requirement for most CAD/CAM software?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 GB",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "8 GB",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "16 GB",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "32 GB",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q018",
+      "category": "CAD/CAM Materials",
+      "question": "Which material is commonly used for milling dental restorations in a CAD/CAM system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rubber",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Plaster",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Zirconia",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Gypsum",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q019",
+      "category": "Dental File Formats",
+      "question": "What is the difference between an STL file and an SPR file?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resolution",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Color depth",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "File format",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Compression level",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW1-Q020",
+      "category": "Digital Model Design",
+      "question": "How does digital model design differ from traditional manual techniques?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It requires specialized sculpting tools",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It offers greater precision and repeatability",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "It eliminates the need for dental materials",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "It relies on physical impression trays",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

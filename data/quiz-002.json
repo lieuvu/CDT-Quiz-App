@@ -1,0 +1,555 @@
+{
+  "quiz": {
+    "id": "digital-workflow-quiz-2",
+    "title": "Digital Workflow Quiz 2",
+    "description": "Practice questions for Digital Workflow Quiz 2",
+    "version": "1.0"
+  },
+  "settings": {
+    "shuffleQuestions": true,
+    "shuffleAnswers": true,
+    "showCorrectAnswerAfterSubmit": true
+  },
+  "questions": [
+    {
+      "id": "DW2-Q001",
+      "category": "Dental File Formats",
+      "question": "What is the difference between an STL file and an SPR file?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resolution",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Color depth",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "File format",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Compression level",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q002",
+      "category": "FDA / 510(k)",
+      "question": "What information is required to be included in a 510(k) submission?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the manufacturer's contact information.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "A detailed description of the device, comparison with similar devices already on the market, and data supporting the device's safety and effectiveness.",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "A brief summary of the device's intended use.",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "A statement that the device is covered by dental insurance.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q003",
+      "category": "Custom Trays",
+      "question": "What is the purpose of designing custom trays with specific tray extensions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To capture accurate impressions of the patient's teeth and soft tissues",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "To serve as temporary restorations for missing teeth",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "To enhance the aesthetics of the patient's smile",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "To provide structural support for dental crowns and bridges",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q004",
+      "category": "Digital Smile Design",
+      "question": "What role does facial analysis play in digital smile design?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Determining the patient's dental insurance coverage",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Assessing the patient's overall health status",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Analyzing facial proportions and symmetry",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Identifying potential dental emergencies",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q005",
+      "category": "3D Printing",
+      "question": "How does calibration of 3D printers affect the quality of printed parts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has no impact on print quality",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It decreases the resolution of printed parts",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "It ensures accurate and consistent print dimensions",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "It increases the risk of printing errors",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q006",
+      "category": "Surgical Guides",
+      "question": "Which factor is critical for ensuring the stability and retention of surgical guides during implant placement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surgical guide thickness",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Implant screw length",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Guided tissue regeneration",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Mucosal attachment integrity",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q007",
+      "category": "CAD/CAM",
+      "question": "In the digital dental laboratory context, what does CAM stand for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Computer-Aided Manufacturing",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Complete Arch Management",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Customized Appliance Modeling",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Clinical Assessment Module",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q008",
+      "category": "Digital Model Design",
+      "question": "What is the advantage of digital model design in terms of storage and retrieval?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It requires physical storage space",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It allows for easy duplication of models",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "It limits access to archived files",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "It relies on paper-based record-keeping",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q009",
+      "category": "Scan Quality",
+      "question": "In scan quality checks, what does the term \"artifacts\" refer to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unwanted elements in the scan",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Calibration marks on the scanner",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Authentication codes for the scan",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Recommended settings for the scanner",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q010",
+      "category": "Digital Smile Design",
+      "question": "Which digital tool allows for the customization of tooth shape, size, and color during smile design?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Virtual smile planner",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Digital smile catalog",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Dental laboratory scanner",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Intraoral camera",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q011",
+      "category": "Safety Data Sheets",
+      "question": "What regulatory agency typically mandates the provision of SDS for dental materials?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Food and Drug Administration (FDA).",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Occupational Safety and Health Administration (OSHA).",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Environmental Protection Agency (EPA).",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Centers for Disease Control and Prevention (CDC).",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q012",
+      "category": "FDA / 510(k)",
+      "question": "Which of the following statements is true regarding the 510(k) process timeline?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The process typically takes several months to complete.",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "The process is completed within a few days of submission.",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "There is no timeline for the 510(k) process.",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "The process is completed within a few years of submission.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q013",
+      "category": "Digital Model Design",
+      "question": "How does digital model design differ from traditional manual techniques?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It requires specialized sculpting tools",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It offers greater precision and repeatability",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "It eliminates the need for dental materials",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "It relies on physical impression trays",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q014",
+      "category": "Computer Hardware",
+      "question": "What is the purpose of maintaining the PC's graphics card?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To store large files",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "To process images and videos",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "To increase battery life",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "To speed up internet connection",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q015",
+      "category": "Zirconia Restorations",
+      "question": "Which of the following is a common post-processing step for zirconia restorations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sandblasting, polishing, or glazing the restoration to achieve the desired surface finish.",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Immersing the restoration in water for 24 hours.",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Applying a thin layer of wax to enhance surface shine.",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Leaving the restoration as-is to maintain its natural appearance.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q016",
+      "category": "Dental Anatomy",
+      "question": "What is the anatomical crown of a tooth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The contact point between adjacent teeth",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "The portion of a tooth covered by enamel above the gum line",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "A virtual representation of the mechanical articulator",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "The virtual mesh used in digital dental design software",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q017",
+      "category": "Biocompatibility",
+      "question": "What is one of the primary concerns regarding the biocompatibility of dental materials?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Color stability",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Surface roughness",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Allergic reactions",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Material strength",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q018",
+      "category": "Provisional Restorations",
+      "question": "What restoration is ideal for fabricating a pre-op provisional?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eggshell Crown",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Diagnostic Wax-up",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Coping",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Lithium Disilicate Crown",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q019",
+      "category": "Intraoral Scan Quality",
+      "question": "What feature allows users to verify the integrity of the imported intra-oral scan before proceeding with CAD design?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quality assessment tool",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Scan validation wizard",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "3D rendering preview",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Compatibility checker",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW2-Q020",
+      "category": "Computer Hardware",
+      "question": "How can memory maintenance affect PC performance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has no impact on performance",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It increases the risk of viruses",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "It slows down the PC",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "It can speed up data processing and reduce lag",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}

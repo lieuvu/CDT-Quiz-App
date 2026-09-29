@@ -1,0 +1,555 @@
+{
+  "quiz": {
+    "id": "digital-workflow-quiz-3",
+    "title": "Digital Workflow Quiz 3",
+    "description": "Practice questions for Digital Workflow Quiz 3",
+    "version": "1.0"
+  },
+  "settings": {
+    "shuffleQuestions": true,
+    "shuffleAnswers": true,
+    "showCorrectAnswerAfterSubmit": true
+  },
+  "questions": [
+    {
+      "id": "DW3-Q001",
+      "category": "Safety Data Sheets",
+      "question": "Why is it important for dental professionals to have access to SDS for dental materials?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To evaluate the stability and retention of dental restorations.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "To guide the positioning of dental implants.",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "To ensure the safe handling and use of materials, as well as to respond appropriately to emergencies.",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "To enhance the color accuracy of digital impressions.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q002",
+      "category": "Safety Data Sheets",
+      "question": "What section of an SDS provides information on the physical and chemical properties of a dental material?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Section 1: Identification.",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Section 2: Hazard(s) Identification.",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Section 9: Physical and Chemical Properties.",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Section 16: Other Information.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q003",
+      "category": "Dental Scanning",
+      "question": "How does scanning tissue contribute to the accuracy of digital dental restorations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It adds color to the digital model",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "It provides information about soft tissue contours and margins",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "It helps in cleaning the scanner",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "It reduces the need for polishing restorations",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q004",
+      "category": "Night Guard Design",
+      "question": "What role does the patient's bite registration play in the design of a night guard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Determines the material color",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Guides the occlusal adjustment",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Specifies the design complexity",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Dictates the thickness variation",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q005",
+      "category": "Intraoral Scanning",
+      "question": "Which is NOT a cause of IO scan errors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A dry field of teeth promoting accurate record of captured areas",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Refraction due to teeth's enamel or porcelain devices",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Outside light sources within scanning area",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Not adhering to recommended scan path",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q006",
+      "category": "HIPAA",
+      "question": "What measures can dental practices take to ensure HIPAA compliance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conducting regular audits of patient records.",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Posting patient information on social media platforms.",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Sharing patient information with other dental practices without patient consent.",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Allowing unauthorized access to patient records.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q007",
+      "category": "Digital Model Orientation",
+      "question": "In a digital dental lab, what does \"model/scan orientation\" primarily refer to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Positioning of the dental chair",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Correct alignment of the intraoral scan",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Orientation of the 3D printer",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Adjusting the brightness of the computer monitor",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q008",
+      "category": "Dental File Formats",
+      "question": "What is the primary file format used to import intra-oral scans into CAD software?",
+      "options": [
+        {
+          "id": "A",
+          "text": ".PDF",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": ".DOCX",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": ".STL",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": ".JPEG",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q009",
+      "category": "Intraoral Scanning",
+      "question": "How does the use of intraoral scanners contribute to the fabrication of dental restorations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By increasing manual errors",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "By reducing the need for patient impressions",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "By limiting material options",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "By prolonging the treatment time",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q010",
+      "category": "Digital Smile Design",
+      "question": "In digital smile design, what initial step is crucial before commencing the design process?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Taking traditional dental impressions",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Conducting a thorough patient interview",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Capturing intraoral scans or digital impressions",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "Selecting the appropriate dental restoration materials",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q011",
+      "category": "Scan Quality",
+      "question": "In scan quality checks, what does the term \"artifacts\" refer to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unwanted elements in the scan",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Calibration marks on the scanner",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Authentication codes for the scan",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Recommended settings for the scanner",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q012",
+      "category": "Digital Dental Design",
+      "question": "What does the term \"interproximal contact\" refer to in digital dental design?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The contact point between adjacent teeth",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "The portion of a tooth covered by enamel above the gum line",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "A component used to support or retain a dental prosthesis",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "The virtual representation of the mechanical articulator",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q013",
+      "category": "Custom Trays",
+      "question": "What is the purpose of designing custom trays with specific tray extensions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To capture accurate impressions of the patient's teeth and soft tissues",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "To serve as temporary restorations for missing teeth",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "To enhance the aesthetics of the patient's smile",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "To provide structural support for dental crowns and bridges",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q014",
+      "category": "Articulators",
+      "question": "What role do articulators play in data acquisition for digital dental laboratories?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Providing support for patients during intraoral scanning",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Simulating jaw movements and bite relationships in digital models",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Facilitating communication between dentists and dental technicians",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Generating 3D models of dental prostheses for fabrication",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q015",
+      "category": "Resin Processing",
+      "question": "What is used to filter contaminated resin?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Charcoal filter",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Coffee filter",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Paper towel",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Nylon mesh",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q016",
+      "category": "Workplace Safety",
+      "question": "Which regulatory standard focuses on ensuring the safety and health of employees in the workplace?",
+      "options": [
+        {
+          "id": "A",
+          "text": "HIPAA",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "OSHA",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "510K",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "FDA",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q017",
+      "category": "Implant Abutments",
+      "question": "What consideration is crucial for designing implant abutments to ensure long-term stability and functionality?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gingival biotype assessment",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Crown material selection",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Implant angulation correction",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Implant-abutment connection design",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q018",
+      "category": "Quality Control",
+      "question": "How do restoration quality checks contribute to the reputation and credibility of a digital dental lab?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They have no impact on lab operations",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "They improve employee turnover rates",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "They establish the lab as a trusted provider of high-quality restorations",
+          "correct": true
+        },
+        {
+          "id": "D",
+          "text": "They lead to increased material waste and inefficiencies",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q019",
+      "category": "Post-Processing",
+      "question": "Which process is typically used to strengthen and solidify milled materials in post-processing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sprue removal",
+          "correct": false
+        },
+        {
+          "id": "B",
+          "text": "Sintering",
+          "correct": true
+        },
+        {
+          "id": "C",
+          "text": "Sandblasting",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Painting",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": "DW3-Q020",
+      "category": "CAD/CAM",
+      "question": "In the digital dental laboratory context, what does CAM stand for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Computer-Aided Manufacturing",
+          "correct": true
+        },
+        {
+          "id": "B",
+          "text": "Complete Arch Management",
+          "correct": false
+        },
+        {
+          "id": "C",
+          "text": "Customized Appliance Modeling",
+          "correct": false
+        },
+        {
+          "id": "D",
+          "text": "Clinical Assessment Module",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
